@@ -3,6 +3,7 @@ package org.example;
 public class Person {
     private Integer age;
     private String name;
+    private String name1;
     private String address;
 
     public Integer getAge() {
